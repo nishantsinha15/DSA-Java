@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//TODO reverse in batches of n
+
 class Node{
     int data;
     Node next;
