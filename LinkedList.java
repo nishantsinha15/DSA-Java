@@ -11,6 +11,7 @@ class Node{
         this.next = null;
     }
 }
+
 public class LinkedList {
 
     public static void main( String args[] )
